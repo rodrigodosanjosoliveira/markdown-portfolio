@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Family
+   * My Son
+   * My Wife
+2. Techs
+   * Programming Languages
+   * Architecture
